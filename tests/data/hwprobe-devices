@@ -1,0 +1,72 @@
+pci:1022-145a-1d05-1111;13-00-00;detected;non-essential instrumentation;;Advanced Micro Devices, Inc. [AMD];Zeppelin/Raven/Raven2 PCIe Dummy Function;Tongfang Hongkong Limited
+pci:1022-15df-1d05-1111;10-80-00;detected;encryption controller;ccp;Advanced Micro Devices, Inc. [AMD];Family 17h (Models 10h-1fh) Platform Security Processor;Tongfang Hongkong Limited
+pci:1022-15e2-1d05-1111;04-80-00;detected;multimedia controller;snd_pci_acp3x, snd_rn_pci_acp3x, snd_pci_acp5x, snd_pci_acp6x, snd_acp_pci, snd_rpl_pci_acp6x, snd_pci_ps, snd_sof_amd_renoir, snd_sof_amd_rembrandt, snd_sof_amd_vangogh, snd_sof_amd_acp63;Advanced Micro Devices, Inc. [AMD];ACP/ACP3X/ACP6x Audio Coprocessor;Tongfang Hongkong Limited
+pci:1022-15e3-1d05-1111;04-03-00;detected;sound;snd_hda_intel;Advanced Micro Devices, Inc. [AMD];Family 17h/19h HD Audio Controller;Tongfang Hongkong Limited
+pci:1022-1630-1d05-1111;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Renoir/Cezanne Root Complex;Tongfang Hongkong Limited
+pci:1022-1631-1d05-1111;08-06-00;detected;iommu;;Advanced Micro Devices, Inc. [AMD];Renoir/Cezanne IOMMU;Tongfang Hongkong Limited
+pci:1022-1632;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Renoir PCIe Dummy Host Bridge
+pci:1022-1632;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Renoir PCIe Dummy Host Bridge
+pci:1022-1632;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Renoir PCIe Dummy Host Bridge
+pci:1022-1633-1d05-1111;06-04-00;works;bridge;pcieport;Advanced Micro Devices, Inc. [AMD];Renoir PCIe GPP Bridge;Tongfang Hongkong Limited
+pci:1022-1634-1d05-1111;06-04-00;works;bridge;pcieport;Advanced Micro Devices, Inc. [AMD];Renoir/Cezanne PCIe GPP Bridge;Tongfang Hongkong Limited
+pci:1022-1634-1d05-1111;06-04-00;works;bridge;pcieport;Advanced Micro Devices, Inc. [AMD];Renoir/Cezanne PCIe GPP Bridge;Tongfang Hongkong Limited
+pci:1022-1634-1d05-1111;06-04-00;works;bridge;pcieport;Advanced Micro Devices, Inc. [AMD];Renoir/Cezanne PCIe GPP Bridge;Tongfang Hongkong Limited
+pci:1022-1634-1d05-1111;06-04-00;works;bridge;pcieport;Advanced Micro Devices, Inc. [AMD];Renoir/Cezanne PCIe GPP Bridge;Tongfang Hongkong Limited
+pci:1022-1635-1111-1d05;06-04-00;detected;bridge;pcieport;Advanced Micro Devices, Inc. [AMD];Renoir Internal PCIe GPP Bridge to Bus;Santa Cruz Operation
+pci:1022-1639-1d05-1111;0c-03-30;detected;usb controller;xhci_pci;Advanced Micro Devices, Inc. [AMD];Renoir/Cezanne USB 3.1;Tongfang Hongkong Limited
+pci:1022-1639-1d05-1111;0c-03-30;detected;usb controller;xhci_pci;Advanced Micro Devices, Inc. [AMD];Renoir/Cezanne USB 3.1;Tongfang Hongkong Limited
+pci:1022-166a;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Cezanne Data Fabric  Function 0
+pci:1022-166b;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Cezanne Data Fabric  Function 1
+pci:1022-166c;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Cezanne Data Fabric  Function 2
+pci:1022-166d;06-00-00;detected;bridge;k10temp;Advanced Micro Devices, Inc. [AMD];Cezanne Data Fabric  Function 3
+pci:1022-166e;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Cezanne Data Fabric  Function 4
+pci:1022-166f;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Cezanne Data Fabric  Function 5
+pci:1022-1670;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Cezanne Data Fabric  Function 6
+pci:1022-1671;06-00-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];Cezanne Data Fabric  Function 7
+pci:1022-790b-1d05-1111;0c-05-00;detected;smbus;i2c_piix4, sp5100_tco;Advanced Micro Devices, Inc. [AMD];FCH SMBus Controller;Tongfang Hongkong Limited
+pci:1022-790e-1d05-1111;06-01-00;detected;bridge;;Advanced Micro Devices, Inc. [AMD];FCH LPC Bridge;Tongfang Hongkong Limited
+pci:10de-228b-1d05-1113;04-03-00;detected;sound;snd_hda_intel;NVIDIA Corporation;GA104 High Definition Audio Controller;Tongfang Hongkong Limited
+pci:10de-249d-1d05-1113;03-00-00;works;graphics card;nouveau;NVIDIA Corporation;GA104M [GeForce RTX 3070 Mobile / Max-Q];Tongfang Hongkong Limited
+pci:10ec-8125-1d05-1113;02-00-00;detected;network;r8169;Realtek Semiconductor Co., Ltd.;RTL8125 2.5GbE Controller;Tongfang Hongkong Limited
+pci:144d-a808-144d-a801;01-08-02;works;storage;nvme;Samsung Electronics Co Ltd;NVMe SSD Controller SM981/PM981/PM983;Samsung Electronics Co Ltd;SSD 970 EVO/PRO
+pci:8086-2725-8086-0024;02-80-00;works;network;iwlwifi;Intel Corporation;Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak];Intel Corporation;Wi-Fi 6 AX210 160MHz
+pci:8086-f1aa-8086-390f;01-08-02;works;storage;nvme;Intel Corporation;SSD 670p Series [Keystone Harbor];Intel Corporation
+usb:048d-ce00;03-01-01;detected;keyboard;usbhid;Integrated Technology Express, Inc.;ITE Device(8291);ITE Tech. Inc.
+usb:04f2-b71a;0e-01-01;detected;camera;uvcvideo;Chicony Electronics Co., Ltd;Integrated IR Camera;SunplusIT Inc;HD Webcam
+usb:05e3-0608;09-00-00;detected;hub;usbcore;Genesys Logic, Inc.;Hub
+usb:05e3-0610;09-00-01;detected;hub;usbcore;Genesys Logic, Inc.;Hub;GenesysLogic
+usb:05e3-0620;09-00-00;detected;hub;usbcore;Genesys Logic, Inc.;GL3523 Hub;GenesysLogic;USB3.2 Hub
+usb:0bda-0316;08-06-50;detected;disk;uas, usb_storage;Realtek Semiconductor Corp.;Card Reader;;USB3.0-CRW
+usb:1d6b-0002;09-00-00;detected;hub;usbcore;Linux Foundation;2.0 root hub
+usb:1d6b-0002;09-00-00;detected;hub;usbcore;Linux Foundation;2.0 root hub
+usb:1d6b-0003;09-00-00;detected;hub;usbcore;Linux Foundation;3.0 root hub
+usb:1d6b-0003;09-00-00;detected;hub;usbcore;Linux Foundation;3.0 root hub
+usb:8087-0032;e0-01-01;detected;bluetooth;btusb;Intel Corp.;AX210 Bluetooth;;Bluetooth Device
+bat:oem-standard-serial-d4602eb6c7ae6300cb554e3dc78f0913;;works;battery;;OEM;Battery standard Li-ion 62.3 Wh
+bios:american-megatrends-n-1-13a04-03-17-2021;;works;bios;;American Megatrends International, LLC.;BIOS N.1.13A04 03/17/2021
+board:tongfang-gm5zg7y-standard;;works;motherboard;;TongFang;Motherboard GM5ZG7Y Standard
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+cpu:amd-25-80-0-ryzen-9-5900hx-with-radeon-graphics;;works;cpu;;AMD;Ryzen 9 5900HX with Radeon Graphics
+eisa:boe-boe0974;;works;monitor;;BOE;LCD Monitor BOE0974 2560x1440 344x194mm 15.5-inch
+mem:corsair-cm4x32ge2666c18s2-sodimm-serial-aaec96992031920b10ead184d63872b5;;works;memory;;Corsair;RAM CM4X32GE2666C18S2 32GB SODIMM DDR4 2667MT/s
+mem:corsair-cm4x32ge2666c18s2-sodimm-serial-aaec96992031920b10ead184d63872b5-1;;works;memory;;Corsair;RAM CM4X32GE2666C18S2 32GB SODIMM DDR4 2667MT/s
+nvme:intel-ssdpeknu020tz-serial-ff15accb446ef76ba68ba115e9ab0374;;works;disk;nvme;Intel Corporation;SSDPEKNU020TZ 2TB;Intel Corporation
+nvme:samsung-nvme-ssd-controller-sm981-pm981-pm983-serial-7879376a8c1352839d565c0aee973d16;;works;disk;nvme;Samsung Electronics Co Ltd;NVMe SSD Controller SM981/PM981/PM983 2TB;Samsung Electronics Co Ltd
+ps/2:0001-0001-at-translated-set-2-keyboard;;detected;keyboard;;;AT Translated Set 2 keyboard
+ps/2:0255-0255-uniw0001-00-093a-touchpad;;detected;touchpad;;0255;UNIW0001:00 093A:Touchpad
+ps/2:093a-0255-uniw0001-00-093a-0255-mouse;;detected;mouse;;;UNIW0001:00 093A:0255 Mouse
+serial:serial-console;;detected;keyboard;;;serial console

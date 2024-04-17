@@ -1,0 +1,45 @@
+{
+    "name": "@appthreat/cdx-hbom",
+    "version": "0.0.1",
+    "description": "Companion library to generate HBOM in CycloneDX format for Linux systems.",
+    "type": "module",
+    "exports": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "sideEffects": false,
+    "engines": {
+      "node": ">=18"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/AppThreat/cdx-hbom.git"
+    },
+    "bugs": {
+      "url": "https://github.com/AppThreat/cdx-hbom/issues"
+    },
+    "scripts": {
+      "lint:check": "biome check *",
+      "lint": "biome check --apply *",
+      "build": "tsc",
+      "prepare": "npm run build"
+    },
+    "files": [
+      "dist",
+      "docs"
+    ],
+    "keywords": [
+      "cyclonedx",
+      "hbom",
+      "supply-chain"
+    ],
+    "author": "Team AppThreat <cloud@appthreat.com>",
+    "license": "Apache-2.0",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "@biomejs/biome": "1.6.4",
+      "typescript": "^5.4.5"
+    }
+}
+
